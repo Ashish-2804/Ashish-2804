@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Rout</h1>
 <h3 align="center">A passionate Computer Science Engineering Student having specialization in AIML</h3>
 
-- 🌱 I’m currently learning Generative AI, **Software Development, and AI development**
+- 🌱 I’m currently learning Generative AI and Web Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashish-2804](https://github.com/ashish-2804)
 
